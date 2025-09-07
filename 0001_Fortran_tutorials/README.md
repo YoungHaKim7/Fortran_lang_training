@@ -1,3 +1,8 @@
+# tutorial playground 로 겁나게 잘되어 잇음 ㅋ
+- https://play.fortran-lang.org/?code=print%20%2A%2C%20%27The%20value%20of%20amount%20%28integer%29%20is%3A%20%27%2C%20amount%0Aprint%20%2A%2C%20%27The%20value%20of%20pi%20%28real%29%20is%3A%20%27%2C%20pi%0Aprint%20%2A%2C%20%27The%20value%20of%20frequency%20%28complex%29%20is%3A%20%27%2C%20frequency%0Aprint%20%2A%2C%20%27The%20value%20of%20initial%20%28character%29%20is%3A%20%27%2C%20initial%0Aprint%20%2A%2C%20%27The%20value%20of%20isOkay%20%28logical%29%20is%3A%20%27%2C%20isOkay
+
+<hr />
+
 # 공식 홈페이지fortran
 - https://fortran-lang.org/learn/quickstart/
 
