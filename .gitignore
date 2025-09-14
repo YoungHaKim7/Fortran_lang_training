@@ -3,7 +3,6 @@
 
 # build
 target
-justfile
 
 # Prerequisites
 *.d
